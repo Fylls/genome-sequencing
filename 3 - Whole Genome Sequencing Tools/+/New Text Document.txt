@@ -1,0 +1,63 @@
+https://www.coursera.org/learn/data-analysis-with-python | Data Analysis with Python | Coursera
+https://www.coursera.org/learn/arduino | Building Arduino robots and devices | Coursera
+https://www.coursera.org/specializations/uiuc-iot | Hands-on Internet of Things | Coursera
+https://www.coursera.org/specializations/iot | An Introduction to Programming the Internet of Things (IOT) | Coursera
+
+https://www.coursera.org/learn/methods-of-molecular-biology | Methods of molecular biology | Coursera
+https://www.coursera.org/learn/bioengineering | Introduction to Biomedical Engineering | Coursera
+https://www.coursera.org/learn/chemical-biology | Chemical Biology | Coursera
+https://www.coursera.org/learn/astrobiology | Astrobiology and the Search for Extraterrestrial Life | Coursera
+https://www.coursera.org/learn/archaeoastronomy | Archaeoastronomy | Coursera
+https://www.coursera.org/learn/astrobiology-exploring-other-worlds | Astrobiology: Exploring Other Worlds | Coursera
+https://www.coursera.org/learn/algae-biotechnology | Algae Biotechnology | Coursera
+https://www.coursera.org/learn/synbioethics | Engineering Life: Synbio, Bioethics & Public Policy | Coursera
+https://www.coursera.org/learn/drug-development | Drug Development | Coursera
+https://www.coursera.org/specializations/systems-biology | Systems Biology and Biotechnology | Coursera
+https://www.coursera.org/learn/genomics-research | Genomics: Decoding the Universal Language of Life | Coursera
+https://www.coursera.org/specializations/biostatistics-public-health | Biostatistics in Public Health | Coursera
+https://www.coursera.org/learn/bioinformatics-methods-1?specialization=plant-bioinformatic-methods | Bioinformatic Methods I | Coursera
+https://www.coursera.org/learn/bioinformatics-pku | Bioinformatics: Introduction and Methods 生物信息学: 导论与方法 | Coursera
+https://www.coursera.org/learn/bioinformatics | Biology Meets Programming: Bioinformatics for Beginners | Coursera
+
+https://www.coursera.org/learn/tinkering-motion-mechanisms | Tinkering Fundamentals: Motion and Mechanisms | Coursera
+https://www.coursera.org/learn/tinkering-circuits | Tinkering Fundamentals: Circuits | Coursera
+https://www.coursera.org/learn/fundamentals-of-materials-science | Fundamentals of Materials Science | Coursera
+https://www.coursera.org/learn/material-informatics | Materials Data Sciences and Informatics | Coursera
+https://www.coursera.org/learn/materials-science | Materials Science: 10 Things Every Engineer Should Know | Coursera
+https://www.coursera.org/learn/material-behavior | Material Behavior | Coursera
+https://www.coursera.org/learn/smart-materials-microscale-and-macroscale-approaches | Smart Materials: Microscale and Macroscale Approaches | Coursera
+
+https://www.coursera.org/learn/nanotechnology | Nanotechnology: A Maker’s Course | Coursera
+https://www.coursera.org/learn/quantum-optics-single-photon | Quantum Optics 1 : Single Photons | Coursera
+https://www.coursera.org/learn/quantum-optics-two-photons | Quantum Optics 2 - Two photons and more | Coursera
+https://www.coursera.org/learn/semiconductor-physics?specialization=semiconductor-devices | Semiconductor Physics | Coursera
+https://www.coursera.org/learn/nanophotonics-detectors?specialization=active-optical-devices | Nanophotonics and Detectors | Coursera
+https://www.coursera.org/learn/displays?specialization=active-optical-devices | Displays | Coursera
+https://www.coursera.org/learn/quantum-computing-algorithms | The Introduction to Quantum Computing | Coursera
+https://www.coursera.org/learn/teach-light-color | Exploring Light: Hands-on Activities and Strategies for Teachers | Coursera
+https://www.coursera.org/learn/spectroscopy | Introduction to Molecular Spectroscopy | Coursera
+https://www.coursera.org/learn/particle-physics | Particle Physics: an Introduction | Coursera
+
+https://www.coursera.org/learn/fundamentals-of-graphic-design?specialization=graphic-design | Fundamentals of Graphic Design | Coursera
+https://www.coursera.org/learn/visual-elements-user-interface-design | Visual Elements of User Interface Design | Coursera
+https://www.coursera.org/learn/ux-design-fundamentals?specialization=ui-ux-design | UX Design Fundamentals | Coursera
+https://www.coursera.org/learn/typography | Introduction to Typography | Coursera
+https://www.coursera.org/learn/private-equity | Private Equity and Venture Capital | Coursera
+https://www.coursera.org/learn/personal-branding | Introduction to Personal Branding | Coursera
+https://www.coursera.org/learn/computational-geometry | Computational Geometry | Coursera
+https://www.coursera.org/learn/mathematics-for-computer-vision?specialization=basics-in-computer-vision | Mathematics for computer vision | Coursera
+https://www.coursera.org/learn/statistical-thermodynamics | Statistical Molecular Thermodynamics | Coursera
+https://www.coursera.org/learn/2d-image-processing?specialization=basics-in-computer-vision | 2D image processing | Coursera
+https://www.coursera.org/learn/learning-how-to-learn?ranMID=40328&ranEAID=EHFxW6yx8Uo&ranSiteID=EHFxW6yx8Uo-DB6_mdMBrVlWOQ14WMeRtA&siteID=EHFxW6yx8Uo-DB6_mdMBrVlWOQ14WMeRtA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=EHFxW6yx8Uo | Learning How to Learn: Powerful mental tools to help you master tough subjects | Coursera
+https://www.coursera.org/learn/negotiation-skills?ranMID=40328&ranEAID=EHFxW6yx8Uo&ranSiteID=EHFxW6yx8Uo-RJz.ZeSWjnOCeQv6TY_CAw&siteID=EHFxW6yx8Uo-RJz.ZeSWjnOCeQv6TY_CAw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=EHFxW6yx8Uo | Successful Negotiation: Essential Strategies and Skills | Coursera
+https://www.coursera.org/learn/project-planning?=&ranMID=40328&ranEAID=EHFxW6yx8Uo&ranSiteID=EHFxW6yx8Uo-0v5Qxf6FUMaiVmZeKJRn9A&siteID=EHFxW6yx8Uo-0v5Qxf6FUMaiVmZeKJRn9A&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=EHFxW6yx8Uo | Initiating and Planning Projects | Coursera
+
+https://www.coursera.org/learn/tcpip | Introduction to TCP/IP | Coursera
+https://www.coursera.org/learn/microwave-antenna | Microwave engineering and antennas | Coursera
+https://www.coursera.org/learn/build-a-computer | Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course) | Coursera
+https://www.coursera.org/learn/comparch | Computer Architecture | Coursera
+https://www.coursera.org/learn/wireless-communications | Wireless Communications for Everybody | Coursera
+https://www.coursera.org/learn/digital-systems | Digital Systems: From Logic Gates to Processors | Coursera
+
+https://github.com/xuwd11/Coursera-Bioinformatics | xuwd11/Coursera-Bioinformatics: My solution to Bioinformatics Specialization (Finding Hidden Messages in DNA; Genome Sequencing; Comparing Genes, Proteins, and Genomes; Molecular Evolution; Genomic Data Science and Clustering; Finding Mutations in DNA and Proteins; Bioinformatics Capstone: Big Data in Biology)
+https://github.com/rbr7/bioinformatics_courses/tree/master/Bioinformatics_specialization-UCSD/finding_hidden_messages_in_DNA/Week_1 | bioinformatics_courses/Bioinformatics_specialization-UCSD/finding_hidden_messages_in_DNA/Week_1 at master · rbr7/bioinformatics_courses

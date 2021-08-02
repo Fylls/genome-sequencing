@@ -2,7 +2,7 @@
 
 # Genome Sequencing
 
-Course offered by the Technical University of Denmark on Coursera
+Course offered by Technical University of Denmark on Coursera
 
 https://www.coursera.org/learn/wgs-bacteria
 
